@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - **👨‍💻 Quem sou:** Olá, sou o @Reinaldo-rs, apaixonado por tecnologia e sempre em busca de aprender mais!  
-- **⚡ Curiosidade:** Gosto de tocar violão e cantar para mim mesmo.  
+- **⚡ Curiosidade:** Além de programar, adoro tocar violão e cantar para mim mesmo.  
 
 ---
 
