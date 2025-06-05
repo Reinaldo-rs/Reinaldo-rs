@@ -1,7 +1,7 @@
-# 👋 Olá, seja bem-vindo(a)!
+# 👋 Olá, eu sou Reinaldo-rs!
 
 ## Sobre mim
-- **👨‍💻 Quem sou:** Olá, sou o @Reinaldo-rs, apaixonado por tecnologia e sempre em busca de aprender mais!  
+- **👨‍💻 Quem sou:** Apaixonado por tecnologia e sempre em busca de aprender mais!  
 - **⚡ Curiosidade:** Além de programar, adoro tocar violão e cantar para mim mesmo.  
 
 ---
@@ -31,8 +31,10 @@
 
 ## 📫 Como entrar em contato comigo
 - **Email:** reinaldo.rsoares@hotmail.com 
-- **LinkedIn:** [Reinaldo-rs](https://linkedin.com/in/reinaldo-rs)  
+- **LinkedIn:** [Reinaldo-rs](https://linkedin.com/in/reinaldo-rs)
+<!--- 
 - **Portfólio:** [Meu site pessoal](Carregando...)
+--->
 
 ---
 
