@@ -1,37 +1,31 @@
-# 👋 Olá, eu sou Reinaldo-rs!
+# 👋 Olá, eu sou o Reinaldo Soares!
 
-## Sobre mim
-- **👨‍💻 Quem sou:** Apaixonado por tecnologia e sempre em busca de aprender mais!  
-- **⚡ Curiosidade:** Além de programar, adoro tocar violão e cantar para mim mesmo.  
-
----
-
-## 👀 Interesses
-- Desenvolvimento Fullstack (HTML, CSS, JavaScript, Node.js e Flutter).
-- Otimização de algoritmos e manipulação de dados.
-- DevOps, SRE e tecnologias de infraestrutura, como **Kubernetes** e **Cloud Computing**.
-- Projetos em **análise de sistemas** e melhoria de processos.
+## 👨‍💻 Sobre mim
+- **🚀 Foco atual:** Desenvolvedor Full Stack Júnior atuando com **C#, .NET, Angular, HTML5, CSS3 e SQL Server**
+- **🔍 Background:** Formado em Técnico em Informática (ETEC) e Engenharia Civil (UNISO), graduando em Análise e Desenvolvimento de Sistemas, com experiência profissional em **QA / Qualidade de Software** e sistemas corporativos ERP.
+- **🤖 Produtividade:** Utilizo **Inteligência Artificial** integrada ao fluxo de desenvolvimento para análise, refatoração, depuração e otimização de código.
+- **🎸 Curiosidade:** Além da tecnologia, gosto de tocar violão e cantar no tempo livre.
 
 ---
 
-## 🌱 Aprendendo agora
-- **JavaScript no Back-end**: Explorando o poder do Node.js para criar APIs robustas e escaláveis.
-- **Flutter**: Criando aplicações incríveis para Android e iOS.  
-- **Git/GitHub**: Aprimorando meu versionamento de código.  
-- **Expressões regulares**: Para validação e manipulação eficiente de strings.  
+## 🛠️ Tecnologias & Stack Principal
+- **Back-end:** C#, .NET, APIs REST, Programação Orientada a Objetos (POO)
+- **Front-end:** Angular, TypeScript, JavaScript, HTML5, CSS3
+- **Banco de Dados:** Microsoft SQL Server, MySQL, Modelagem Relacional
+- **Qualidade & Ferramentas:** QA / Testes Funcionais, Git, GitHub, VS Code, Visual Studio
 
 ---
 
-## 💞️ Buscando colaborar em
-- Projetos de código aberto em tecnologias web e mobile.  
-- Desenvolvimento de ferramentas que simplifiquem o trabalho em equipe (colaboração, pipelines, etc.).  
-- Iniciativas educacionais ou projetos sociais de tecnologia.  
+## 👀 Interesses & Atuação
+- Desenvolvimento de aplicações web escaláveis e arquitetura de APIs RESTful.
+- Qualidade de software, validação de regras de negócio e melhoria contínua de processos.
+- Automação e uso estratégico de Inteligência Artificial no ciclo de engenharia de software.
 
 ---
 
 ## 📫 Como entrar em contato comigo
-- **Email:** reinaldo.rsoares@hotmail.com 
-- **LinkedIn:** [Reinaldo-rs](https://linkedin.com/in/reinaldo-rs)
+- **LinkedIn:** [linkedin.com/in/reinaldo-rs](https://linkedin.com/in/reinaldo-rs)
+- **Email:** reinaldo.rsoares@hotmail.com
 <!--- 
 - **Portfólio:** [Meu site pessoal](Carregando...)
 --->
@@ -40,8 +34,3 @@
 
 ✨ **_“A melhor maneira de prever o futuro é criá-lo.”_** – Peter Drucker
 
-
-<!---
-Reinaldo-rs/Reinaldo-rs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
